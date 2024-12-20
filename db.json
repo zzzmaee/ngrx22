@@ -1,0 +1,29 @@
+{
+  "Blogs": [
+    {
+      "id": 1,
+      "title": "Angular",
+      "description": "Angular is the BEST"
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "description": "React is an opensource powered by META"
+    },
+    {
+      "id": 3,
+      "title": ".NET",
+      "description": ".NET is an opensource powered by Microsoft"
+    },
+    {
+      "id": 4,
+      "title": "Java",
+      "description": "Строго типизированный объектно-ориентированный язык программирования общего назначения, разработанный компанией Sun Microsystems. "
+    },
+    {
+      "id": 5,
+      "title": "SQL",
+      "description": "Декларативный язык программирования, применяемый для создания, модификации и управления данными в реляционной базе данных, управляемой соответствующей системой управления базами данных."
+    }
+  ]
+}
